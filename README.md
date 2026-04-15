@@ -36,8 +36,8 @@ A complete end-to-end **Data Science** project on the **CICIoT2023** dataset fro
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/CICIoT2023-DataScience.git
-cd CICIoT2023-DataScience
+git clone https://github.com/SUBHAMDASH-CLOUD/DS-Project
+cd DS-Project
 ```
 
 ### 2. Install Dependencies
@@ -56,10 +56,7 @@ python data/download_dataset.py
 python main.py
 ```
 
-### 5. Or use Jupyter Notebooks
-```bash
-jupyter notebook notebooks/
-```
+
 
 ---
 
@@ -141,14 +138,11 @@ Sensor (2023). https://www.mdpi.com/1424-8220/23/13/5941
 - **Matplotlib, Seaborn** — Visualization
 - **Scikit-learn** — Machine Learning
 - **XGBoost** — Gradient Boosting
-- **Jupyter Notebook** — Interactive analysis
-- **Joblib** — Model serialization
-
 ---
 
 ## 👨‍💻 Author
 
-Data Science Project — CICIoT2023  
+Data Science Project — SUBHAM DASH  
 Submitted as part of coursework.
 
 ---
